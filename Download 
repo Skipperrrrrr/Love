@@ -1,0 +1,156 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>For Loretta, With Love</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background: #fff0f5;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #ffb6c1;
+      padding: 40px 20px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h1, h2, h3 {
+      margin: 0 0 20px;
+      color: #c71585;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    footer {
+      background: #ffe4ed;
+      padding: 20px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+    }
+    .gallery-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .gallery-row figure {
+      flex: 1 1 200px;
+      margin: 0;
+    }
+    .gallery-row img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+    .gallery-row figcaption {
+      text-align: center;
+      font-size: 0.95em;
+      margin-top: 6px;
+    }
+    iframe {
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Hi Pudding 😘</h1>
+  <h2>Happy 3 Years of Us ❤️</h2>
+</header>
+
+<section id="our-story">
+  <h2>Our Story 💫</h2>
+  <p>We met in the university. We were both 17. I was in second year and you were a fresher.
+  We met because we were supposed to start a Bacenta on campus together.
+  I mean… we started the Bacenta 😅 — but as we kept the fellowship going, our hearts grew fonder 🥹❤️.</p>
+  <p>Before we knew it, I enjoyed spending more time with you than even my books 😭.
+  Unreasonable but magical 💕.</p>
+  <p>It wasn’t love at first sight, but I love how long it took for you to start telling me
+  “I haven’t heard from you the whole day.”
+  Every day for four years, I thought about you, I came to your room, I ate your food,
+  I tried to make you laugh 😅 — and I laughed at you even more —
+  only to realize that I had melted to the ground;
+  fallen so much in love no one could pick me up.</p>
+  <p>On the 5th of July, 2022, I popped the question (not the biggest one but the phrase still works 😂😂).
+  Fast forward… it’s been three years and I still really like you.
+  I imagine what “happily ever after” with you looks like — teaching our 18-year-old how to drive,
+  or celebrating “Kwaku and Lorrie’s 50th anniversary.”
+  And I know there’s only one person I see all of that with: <strong>YOU</strong>.</p>
+  <p>One fun memory? Oh I’ll never forget —
+  Hillview Hotel.
+  We knew outside food wasn’t allowed, but you and I strolled in with our Waakye 😂
+  and found a way to eat it in plain sight.
+  I was panicking the whole time that we’d get caught,
+  yet somehow I was the one encouraging you to feel free and eat 😂😂😂.
+  The only smart move? Buying Coke and lime from them —
+  just to give off “we’re customers ooo” energy 😂</p>
+  <p>And finally… I’ll forever laugh at your English —
+  even though, technically, you understand and know way more words than I do 😭😂😂</p>
+</section>
+
+<section id="letters">
+  <h2>💌 From Loretta, With Love</h2>
+  <p><em>“Every word here is hers. Every line a little piece of her heart, sealed with love for me — her Bubba, her Teddy, her annoying-but-cute perfect combo.”</em></p>
+  <div class="gallery-row">
+    <figure><img src="images/letter-1.jpg" alt="Hey Bubba"><figcaption>Letter 1: “Hey Bubba”</figcaption></figure>
+    <figure><img src="images/letter-2.jpg" alt="Hey Teddy"><figcaption>Letter 2: “Hey Teddy”</figcaption></figure>
+    <figure><img src="images/letter-3.jpg" alt="FLAMES Test"><figcaption>Letter 3: The FLAMES Test</figcaption></figure>
+  </div>
+</section>
+
+<section id="future">
+  <h2>🛤️ Where We’re Going… Together</h2>
+  <p>I picture a life with you that spans across oceans and islands.
+  Tropical skies above us, your laughter in my ears, and a camera roll full of sunsets and silly poses.
+  From <strong>Zanzibar to Jamaica</strong>, <strong>Santorini to Switzerland</strong>, I want to see the world with you — because you are my world.</p>
+  <p>I see a marriage full of joy — not because life will always be easy, but because <strong>I chose you</strong>.
+  And if you were a twin, I’d still pick you.</p>
+  <p>I see a home where <strong>you are our spiritual covering</strong>, where our children grow up learning to love God because they see it in you first.
+  A home where I am cheered on, loved hard, and prayed for by my <strong>biggest support</strong> — you.</p>
+  <p>And yes, I see our <strong>twins</strong> — <strong>Nyameye and Adom</strong> — running through the halls, laughing, learning, and being raised by two people madly in love.</p>
+  <p><strong>Forever is real to me. Because it looks like you.</strong></p>
+</section>
+
+<section id="playlist" style="background:#fef6f9; text-align:center;">
+  <h2>🎧 For Borborr</h2>
+  <p><em>A playlist for the girl who stole my heart — and danced away with it.</em></p>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7AaQ6KykXSgQNxaYDaEMfJ?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</section>
+
+<!-- Floating Proposal Link -->
+<a href="secret.html" 
+   style="
+     position:fixed;
+     bottom:20px;
+     right:20px;
+     background:#ffb6c1;
+     color:#fff;
+     padding:10px 18px;
+     border-radius:20px;
+     font-size:0.95em;
+     text-decoration:none;
+     box-shadow:0 4px 12px rgba(0,0,0,0.2);
+     opacity:0.7;
+     transition:all 0.3s ease;
+     font-family: 'Georgia', serif;
+   "
+   onmouseover="this.style.opacity=1"
+   onmouseout="this.style.opacity=0.7">
+   One Last Thing...
+</a>
+
+<footer>
+  Made with love by Skipper 💘 | 3 Years Strong
+</footer>
+
+</body>
+</html>
